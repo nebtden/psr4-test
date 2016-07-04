@@ -1,5 +1,5 @@
 <?php
-namespace simon;
+namespace nebtden;
 class Test{
   public function __construct(){
     echo 111;
